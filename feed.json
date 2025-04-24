@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://acestus.micro.blog/2025/04/24/i-watch-the-amateur-and.html",
+				
+				"content_html": "<p>I watch the Amateur and I really enjoyed it.\nIt was well thought out.\nIt would be what would happen if a sysadmin  became an Action Hero.\nI recommend it.</p>\n",
+				"content_text": "I watch the Amateur and I really enjoyed it.\r\nIt was well thought out.\r\nIt would be what would happen if a sysadmin  became an Action Hero.\r\nI recommend it.\n",
+				"date_published": "2025-04-24T16:46:37-05:00",
+				"url": "https://blog.acestus.com/2025/04/24/i-watch-the-amateur-and.html"
+			},
+			{
+				"id": "http://acestus.micro.blog/2025/04/20/i-did-not-know-the.html",
+				
+				"content_html": "<p>I did not know the difference between local host and 127.0.0.1 until I read this article. It was well written.</p>\n<p><a href=\"https://blog.stackademic.com/the-real-difference-between-localhost-and-127-0-0-1-its-not-what-you-think-96de3c9c0c9d?sk=v2/7663a0c9-b8af-42ab-98b8-173a280b86dc\">The Real Difference Between localhost and 127.0.0.1 (It’s Not What You Think)</a></p>\n",
+				"content_text": "I did not know the difference between local host and 127.0.0.1 until I read this article. It was well written.\n\n[The Real Difference Between localhost and 127.0.0.1 (It’s Not What You Think)](https://blog.stackademic.com/the-real-difference-between-localhost-and-127-0-0-1-its-not-what-you-think-96de3c9c0c9d?sk=v2/7663a0c9-b8af-42ab-98b8-173a280b86dc)\n",
+				"date_published": "2025-04-20T10:54:48-05:00",
+				"url": "https://blog.acestus.com/2025/04/20/i-did-not-know-the.html"
+			},
+			{
 				"id": "http://acestus.micro.blog/2025/03/25/test.html",
 				
 				"content_html": "<p>test01</p>\n",
